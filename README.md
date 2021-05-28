@@ -6,3 +6,5 @@ requires:
 
 python3
 omxplayer from here: https://github.com/popcornmix/omxplayer/
+
+You'll need your own movies, policies, trailers, commercials, etc. You can find a lot on YouTube
