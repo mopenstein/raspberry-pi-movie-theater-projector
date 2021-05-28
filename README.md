@@ -5,7 +5,7 @@ Python script that will turn a raspberry pi into a movie theater projector by au
 
 edit test.py Line 23 to set your default path:
 
-// drive = '/mnt/mydisk/'
+drive = '/mnt/mydisk/'
 
 #You'll need the follow directory structure:
 
