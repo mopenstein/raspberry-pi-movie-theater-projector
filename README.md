@@ -25,4 +25,4 @@ python
 
 omxplayer from here: https://github.com/popcornmix/omxplayer/
 
-You'll need your own movies, policies, trailers, commercials, etc. You can find a lot on YouTube
+You'll need your own movies, policies, trailers, commercials, etc. You can find a lot on YouTube https://www.youtube.com/results?search_query=+theater+policy&sp=EgIgAQ%253D%253D
